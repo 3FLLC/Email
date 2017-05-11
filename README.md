@@ -45,7 +45,7 @@ ipaddr=0.0.0.0
 OnConnect=/EMAIL/popserver.p
 ```
 
-##Setup/Configuration
+## Setup/Configuration
 
 * mkdbfs.p
 This utility generates folders for the system, folders for new users, and all databases.
